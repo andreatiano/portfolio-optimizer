@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+
+# Dati locali (NON caricare su cloud)
+data/cache/
+output/*.html
+output/*.png
+output/*.pdf
+output/*.log
+portfolio_state.json

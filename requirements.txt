@@ -1,0 +1,19 @@
+# Web framework
+flask>=3.0.0
+gunicorn>=21.2.0
+
+# Dati finanziari
+yfinance>=0.2.36
+
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Ottimizzazione matematica
+scipy>=1.10.0
+
+# Visualizzazione
+matplotlib>=3.7.0
+
+# Utility
+requests>=2.31.0

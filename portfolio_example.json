@@ -1,0 +1,28 @@
+{
+  "_comment": "Esempio file portafoglio attuale per --portfolio-file. Formato: {ticker: {quantity, avg_price, current_price}}",
+  "AAPL": {
+    "quantity": 10,
+    "avg_price": 145.50,
+    "current_price": 195.00
+  },
+  "MSFT": {
+    "quantity": 5,
+    "avg_price": 310.00,
+    "current_price": 430.00
+  },
+  "NVDA": {
+    "quantity": 3,
+    "avg_price": 280.00,
+    "current_price": 850.00
+  },
+  "JNJ": {
+    "quantity": 8,
+    "avg_price": 168.00,
+    "current_price": 152.00
+  },
+  "V": {
+    "quantity": 6,
+    "avg_price": 220.00,
+    "current_price": 270.00
+  }
+}
